@@ -1,4 +1,4 @@
-# IMDB Sentiment Binary Classification: Sequencial Model
+# IMDB Sentiment Binary Classification: Sequential Model
 
 This project demonstrates techniques for building, training, and optimizing a neural network model to classify IMDB movie reviews as positive or negative.
 
