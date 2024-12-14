@@ -57,10 +57,10 @@
 
 ### Data Processing Techniques
 - **Vocabulary Handling**:
-  - S filters vocabulary by word frequency, retaining the top 10,000 words.
+  - Sequential filters vocabulary by word frequency, retaining the top 10,000 words.
   - Transformer and BiLSTM uses the TextVectorization layer, supporting more advanced formats like N-grams and embedding vectors.
 - **Word Embeddings**:
-  - sequential does not use pre-trained embeddings.
+  - Sequential does not use pre-trained embeddings.
   - Transformer and BiLSTM incorporates GloVe pre-trained embeddings for semantic understanding and transfer learning.
 
 ### Feature Engineering
@@ -82,7 +82,7 @@
     - Positional embeddings for retaining sequence information.
 
 ### Regularization Techniques
-- **sequential**:
+- **Sequential**:
   - Applies L1, L2, and Elastic Net regularizations for weight penalties.
 - **Transformer and BiLSTM**:
   - Uses weight initialization with pre-trained embeddings like GloVe.
