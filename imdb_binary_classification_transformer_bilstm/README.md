@@ -1,4 +1,4 @@
-# IMDB Sentiment Binary Classification: Transformer and Bi-LSTM
+# IMDB Sentiment Binary Classification: Transformer and BiLSTM
 This project demonstrates techniques for building, training, and optimizing a neural network model to classify IMDB movie reviews as positive or negative.
 
 ## Table of Contents
