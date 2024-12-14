@@ -2,7 +2,7 @@
 
 ## Comparison Technique Used in Sequencial and in Transformer and BiLSTM: Similarities and Differences
 
-## Table of Contents
+### Table of Contents
 1. [Similarities](#similarities)
    - [Data Processing Techniques](#data-processing-techniques)
    - [Deep Learning Techniques](#deep-learning-techniques)
