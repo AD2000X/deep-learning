@@ -1,6 +1,6 @@
 # Task: IMDB Movie Review Binary Classification Task
 
-## Comparison Technique Used in Sequencial and in Transformer and BiLSTM: Similarities and Differences
+## Technique Used in Sequencial and in Transformer and BiLSTM: Similarities and Differences
 
 ### Table of Contents
 1. [Similarities](#similarities)
