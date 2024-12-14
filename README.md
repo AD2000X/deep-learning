@@ -1,4 +1,4 @@
-# Comparison of Sequencial and Transformer and BiLSTM: Similarities and Differences
+# Comparison technique used of Sequencial and Transformer and BiLSTM: Similarities and Differences
 
 ## Table of Contents
 1. [Similarities](#similarities)
