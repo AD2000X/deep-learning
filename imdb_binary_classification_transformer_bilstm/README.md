@@ -1,4 +1,5 @@
-# IMDB Sentiment Analysis: Techniques and Resources
+# IMDB Sentiment Binary Classification: Transformer and Bi-LSTM
+This project demonstrates techniques for building, training, and optimizing a neural network model to classify IMDB movie reviews as positive or negative.
 
 ## Table of Contents
 1. [Natural Language Processing (NLP)](#1-natural-language-processing-nlp)
