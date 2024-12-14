@@ -126,7 +126,3 @@
 | **Resources and Tools**     | Matplotlib for visualizations.                                   | Transformer and BiLSTM uses Seaborn for enhanced analysis and T4 GPUs for training large-scale models.              |
 
 ---
-
-## 4. Conclusion
-- **Sequencial** is focused on basic feed-forward architectures and simpler regularization/optimization techniques, suitable for small-scale experiments and prototyping.
-- **Transformer and BiLSTM** integrates modern NLP techniques and sophisticated deep learning architectures, making it more suitable for larger datasets and advanced tasks like contextual understanding and long-term dependencies.
